@@ -5,6 +5,8 @@ cd project1 && python3 -m venv --prompt "project1" .venv
 cd project2 && python3 -m venv --prompt "project2" .venv
 ```
 
+Restart vscode to be sure.
+
 ### Bug
 
 Now check the `global.py` file.
